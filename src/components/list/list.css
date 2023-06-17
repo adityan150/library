@@ -1,0 +1,12 @@
+.list-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #5300b8;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-row-gap: 2rem;
+  grid-column-gap: 2rem;;
+}
