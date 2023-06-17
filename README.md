@@ -1,6 +1,9 @@
 # Library Management
 
-*Build a library management page with the following modules :*
+Deployed: <br/>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d90f52d-e346-4f8b-b39a-a3eec7928ada/deploy-status)](https://app.netlify.com/sites/adityas-elibrary/deploys)
+<br/>
+*Assignment: Build a library management page with the following modules :*
 
 * [x] Loading animation
 
